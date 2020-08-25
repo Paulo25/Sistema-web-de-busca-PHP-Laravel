@@ -22,7 +22,7 @@
     },
     "dependencies": {
         "ckeditor": "^4.11.4",
-        "highcharts": "^7.1.2",
+        "highcharts": "^7.2.2",
         "jquery-datetimepicker": "^2.5.21"
     }
 }
